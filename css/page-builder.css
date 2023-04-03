@@ -1,7 +1,7 @@
 /* theme style to reset wordpress backend */
 .gdlr-core-page-builder-body{ overflow: hidden; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 .gdlr-core-page-builder-body p{ margin-top: 0px; margin-bottom: 20px; font-size: inherit; }
-.gdlr-core-page-builder-body ul{ margin-top: 0px; }
+.gdlr-core-page-builder-body ul{ margin: 0px; }
 .gdlr-core-page-builder-body img{ max-width: 100%; height: auto; }
 .gdlr-core-page-builder-body a{ text-decoration: none;
 	transition: background 300ms, color 300ms, border-color 300ms; -moz-transition: background 300ms, color 300ms, border-color 300ms;

@@ -102,11 +102,11 @@ body.onepagepro-background-pattern .onepagepro-body-outer-wrapper{ background-im
 .onepagepro-header-style-bar .onepagepro-logo-right-text{ padding-top: 30px; } 
 .onepagepro-logo{ padding-top: 50px; } 
 .onepagepro-logo{ padding-bottom: 32px; } 
-.onepagepro-logo-inner{ max-width: 200px; } 
+.onepagepro-logo-inner{ max-width: 250px; } 
 .onepagepro-navigation{ padding-top: 53px; }.onepagepro-navigation-top{ top: 53px; } 
 .onepagepro-navigation .sf-menu > li > a{ padding-bottom: 34px; } 
 .onepagepro-navigation .onepagepro-main-menu{ padding-right: 0px; } 
-.onepagepro-fixed-navigation.onepagepro-style-slide .onepagepro-logo-inner img{ max-height: none !important; }.onepagepro-animate-fixed-navigation.onepagepro-header-style-plain .onepagepro-logo-inner, .onepagepro-animate-fixed-navigation.onepagepro-header-style-boxed .onepagepro-logo-inner{ max-width: 50px; } 
+.onepagepro-fixed-navigation.onepagepro-style-slide .onepagepro-logo-inner img{ max-height: none !important; }.onepagepro-animate-fixed-navigation.onepagepro-header-style-plain .onepagepro-logo-inner, .onepagepro-animate-fixed-navigation.onepagepro-header-style-boxed .onepagepro-logo-inner{ max-width: 250px; } 
 .onepagepro-animate-fixed-navigation.onepagepro-header-style-plain .onepagepro-logo, .onepagepro-animate-fixed-navigation.onepagepro-header-style-boxed .onepagepro-logo{ padding-top:  19px; } 
 .onepagepro-animate-fixed-navigation.onepagepro-header-style-plain .onepagepro-logo, .onepagepro-animate-fixed-navigation.onepagepro-header-style-boxed .onepagepro-logo{ padding-bottom: 20px; } 
 .onepagepro-animate-fixed-navigation.onepagepro-header-style-plain .onepagepro-navigation, .onepagepro-animate-fixed-navigation.onepagepro-header-style-boxed .onepagepro-navigation{ padding-top: 25px; }.onepagepro-animate-fixed-navigation.onepagepro-header-style-plain .onepagepro-navigation-top, .onepagepro-animate-fixed-navigation.onepagepro-header-style-boxed .onepagepro-navigation-top{ top: 25px; } 
